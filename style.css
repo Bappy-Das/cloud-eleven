@@ -9,7 +9,7 @@ body{
 .flexible-section{
 
     display: flex;
-    margin-bottom: 200px;
+    margin-bottom: 80px;
 }
 .header-top{
     display: flex;
@@ -135,6 +135,7 @@ h1{
   .contact{
       background-image: linear-gradient( gray black);
       background-repeat: no-repeat;
+      padding-top: 100px;
   
 }
   .contact h1{
@@ -142,7 +143,7 @@ h1{
   }
 
 
-  input, select, textarea {
+  input, textarea {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
