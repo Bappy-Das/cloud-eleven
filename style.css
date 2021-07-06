@@ -84,16 +84,10 @@ h1{
     margin-bottom: 100px;
     
 }
-
-.about-img img{
-    width: 40%;
-    margin-left: 160px;
-    
-}
 .about-content{
     width: 50%;
     padding-left: 100px;
-    margin-top: 100px;
+    margin-top: 150px;
 }
 
 .recipies{
@@ -119,6 +113,7 @@ h1{
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+    border-radius: 20px;
   }
 
   .followers{
