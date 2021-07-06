@@ -49,3 +49,27 @@ h1{
     width: 50%;
     margin-left: 160px;
 }
+.recipies{
+    text-align: center;
+    padding-left: 80px;
+    padding-top: 0px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+}
+.recipie-iitem{
+    box-shadow: 10px 10px 40px grey;
+    width: 40%;
+    margin-left: 2%;
+    border-radius: 40px;
+    text-align: left;
+    padding: 20px;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.center img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
